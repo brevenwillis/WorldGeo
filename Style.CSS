@@ -6,6 +6,10 @@ h1 {
  font-family: 'Oswald', sans-serif;
 }
 
-.Causes {
-  font-family: Arial;
+li {
+ font-family: Arial
+}
+
+.Causes {  
+ font-family: Arial;
 }
